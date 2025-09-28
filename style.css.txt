@@ -1,0 +1,96 @@
+/* General */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.6;
+  background: #f7f9fc;
+  color: #333;
+}
+
+.container {
+  width: 85%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* Header */
+header {
+  background: #002b5b;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+header p {
+  margin: 10px 0;
+  font-size: 1.2em;
+}
+
+.contact a {
+  margin: 0 10px;
+  color: #ffd700;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
+/* Sections */
+section {
+  margin: 40px 0;
+}
+
+h2 {
+  color: #002b5b;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+  margin: 0;
+  color: #333;
+}
+
+.time {
+  font-size: 0.9em;
+  color: #666;
+}
+
+/* Skills */
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skills span {
+  background: #002b5b;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-size: 0.9em;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  background: #002b5b;
+  color: white;
+  padding: 15px;
+  margin-top: 40px;
+}

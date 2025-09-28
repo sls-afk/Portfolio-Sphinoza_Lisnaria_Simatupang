@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portofolio - Sphinoza Lisnaria Simatupang</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/yourkitid.js" crossorigin="anonymous"></script> <!-- optional icons -->
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Sphinoza Lisnaria Simatupang</h1>
+      <p>Credit Analyst | Risk Management | Quality Assurance</p>
+      <div class="contact">
+        <a href="mailto:sphinozalisnaria@gmail.com"><i class="fas fa-envelope"></i> Email</a>
+        <a href="https://linkedin.com/in/sphinozalisnaria" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+        <a href="tel:+6285362429601"><i class="fas fa-phone"></i> Telepon</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2>👩 Tentang Saya</h2>
+      <p>Lulusan S1 Fisika dengan lebih dari 2 tahun pengalaman sebagai Credit Analyst di sektor pembiayaan konsumen. Berpengalaman dalam analisa kredit, mitigasi risiko gagal bayar, penyusunan laporan berkala, serta mendukung fungsi Quality Assurance. Teliti, komunikatif, dan berorientasi pada hasil.</p>
+    </section>
+
+    <section>
+      <h2>💼 Pengalaman Kerja</h2>
+      <div class="card">
+        <h3>PT Mega Finance – Credit Analyst</h3>
+        <span class="time">Des 2022 – Mei 2025</span>
+        <ul>
+          <li>Menganalisis 250–300 data kredit per bulan untuk menilai risiko.</li>
+          <li>Menjaga SLA analisa kredit 85–90%.</li>
+          <li>Menekan FPD 0% dan FID < 2% selama 6 bulan berturut-turut.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>PT Mega Finance – Quality Assurance</h3>
+        <span class="time">Mei – Des 2024</span>
+        <ul>
+          <li>Monitoring 10+ proses cabang per bulan sesuai SOP.</li>
+          <li>Laporan QA dengan 90% follow-up.</li>
+          <li>Dukungan audit eksternal dengan dokumen lengkap.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>PT Banana Niaga Natura – Admin Operasional</h3>
+        <span class="time">Mar – Okt 2022</span>
+        <ul>
+          <li>Input data transaksi dengan akurasi 98%.</li>
+          <li>Kelola inventaris dengan 99% akurasi.</li>
+          <li>Tangani komunikasi pelanggan dengan cepat.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>🎓 Pendidikan</h2>
+      <p>Universitas Negeri Medan – S1 Fisika (2016 – 2021)<br>
+      IPK: 3,47</p>
+    </section>
+
+    <section>
+      <h2>🛠 Keterampilan</h2>
+      <div class="skills">
+        <span>Analisa Kredit & Risiko</span>
+        <span>Microsoft Excel (Pivot, VLOOKUP, Dashboard)</span>
+        <span>QA & Kepatuhan Operasional</span>
+        <span>Administrasi & Rekonsiliasi Data</span>
+        <span>Komunikasi & Koordinasi Tim</span>
+      </div>
+    </section>
+
+    <section>
+      <h2>📜 Sertifikat</h2>
+      <ul>
+        <li>Fraud Risk Management – LPPI (Okt 2024)</li>
+        <li>Future Internal Audit – BINUS University (Ags 2025)</li>
+        <li>Staff Akuntansi & Pajak – harisenin.com (Ags 2025)</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Sphinoza Lisnaria Simatupang | Portofolio Profesional</p>
+  </footer>
+</body>
+</html>
